@@ -8,20 +8,6 @@ Building scalable cloud infrastructure and automated CI/CD pipelines.
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rakeshcrv&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshcrv&layout=compact)
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge)
-
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge)
-
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge)
-
 ## 🚀 About Me
 
 - 🎓 BCA Student (CGPA: 8.9)
