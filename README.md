@@ -1,629 +1,413 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Rakesh+Sirvi+N;DevOps+%26+Cloud+Engineer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Building+Production+Infrastructure;Always+Learning+New+Technologies" />
+# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=950&lines=Hi+👋,+I'm+Rakesh+Sirvi+N;DevOps+%26+Cloud+Engineer;AWS+•+Docker+•+Kubernetes+•+Terraform;Building+Production+Cloud+Infrastructure;Always+Learning+Something+New+🚀" />
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-# 💻 DevOps Command Center
+# 👨‍💻 DevOps & Cloud Engineer
+
+Building scalable cloud infrastructure, automating deployments, and creating reliable production systems.
 
 </div>
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│ Ubuntu 24.04 LTS                                             │
-├──────────────────────────────────────────────────────────────┤
-
-Last Login : Today
-
-Rakesh@github:~$
-
-whoami
-
-DevOps & Cloud Engineer
-
-hostname
-
-github.com/Rakeshcrv
-
-pwd
-
-/home/rakesh/cloud-engineer
-
-cat about.txt
-
-Passionate about designing, automating and deploying
-production-grade cloud infrastructure.
-
-Specialized in:
-
-• AWS
-• Docker
-• Kubernetes
-• Terraform
-• Linux
-• CI/CD
-• Monitoring
-
-systemctl status motivation
-
-● active (running)
-
-kubectl get pods
-
-READY     STATUS      RESTARTS
-
-12/12     Running     0
-
-terraform apply
-
-✔ Infrastructure deployed successfully
-
-docker ps
-
-✔ Containers Running
-
-git status
-
-✔ Working Tree Clean
-
-exit
-
-logout
-```
-
 ---
 
-# 👨‍💻 About Me
+<table width="100%">
+<tr>
+
+<td width="65%" valign="top">
+
+# 👋 About Me
 
 ```yaml
 Name: Rakesh Sirvi N
 
 Role: DevOps & Cloud Engineer
 
-Location: India
+Location: India 🇮🇳
 
-Experience:
-  - Production Deployments
-  - AWS Infrastructure
-  - Linux Administration
-  - Docker
-  - Kubernetes
-  - Terraform
-  - GitHub Actions
-  - Jenkins
-
-Current Focus:
-
-  - Kubernetes
-  - Terraform
-  - AWS
-  - CI/CD
-  - Production Monitoring
+Current Company:
+  AITSP
 
 Open To:
-
   - DevOps Engineer
   - Cloud Engineer
-  - SRE
+  - Site Reliability Engineer
+
+Experience:
+
+  ✔ Production Deployments
+
+  ✔ AWS Infrastructure
+
+  ✔ Docker
+
+  ✔ Kubernetes
+
+  ✔ Terraform
+
+  ✔ GitHub Actions
+
+  ✔ Jenkins
+
+  ✔ Linux Administration
 ```
+
+</td>
+
+<td width="35%" valign="top">
+
+## ⚡ Quick Info
+
+```text
+OS          Ubuntu
+
+Editor      VS Code
+
+Cloud       AWS
+
+IaC         Terraform
+
+Containers  Docker
+
+CI/CD       GitHub Actions
+
+Monitoring  Grafana
+
+Backend     FastAPI
+
+Database    PostgreSQL
+```
+
+<br>
+
+## 🎯 Current Focus
+
+- ☸ Kubernetes
+- 🏗 Terraform
+- ☁ AWS
+- 🚀 CI/CD
+- 📊 Observability
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/rakesh-sirvi-n-24232a3b3/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+&nbsp;
+
 <a href="https://rakeshsirvi.site">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+&nbsp;
+
+<a href="mailto:rakeshcrv987@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+</div>
+
+---
+
+<div align="center">
+
+### 💬 *"Automate everything. Monitor everything. Build reliable systems."*
+
+</div>
+
+---
+
+# Tech Stack
+
+<div align="center">
+
+### ☁️ Cloud & Infrastructure
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes&theme=dark"/>
+
 </p>
 
----
+### ⚙️ CI/CD & DevOps
 
-# 🚀 Tech Stack
+<p>
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,git,github,githubactions,jenkins,bash,python,fastapi,postgres,nginx,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,bash&theme=dark"/>
 
 </p>
 
----
+### 💻 Backend Development
 
-# ⚙ DevOps Toolbox
+<p>
 
-| Category | Technologies |
-|-----------|--------------|
-| Cloud | AWS |
-| Containers | Docker |
-| Orchestration | Kubernetes |
-| Infrastructure | Terraform |
-| CI/CD | GitHub Actions, Jenkins |
-| Monitoring | Grafana, Prometheus |
-| Backend | Python, FastAPI |
-| Database | PostgreSQL |
-| Reverse Proxy | NGINX |
-| Version Control | Git, GitHub |
-| OS | Ubuntu Linux |
+<img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark"/>
 
----
+</p>
 
-# 📚 Currently Learning
+### 🗄️ Database & Monitoring
 
-```text
-██████████████████████░░░░░ 80%
+<p>
 
-☁ Advanced AWS
+<img src="https://skillicons.dev/icons?i=postgres,prometheus,grafana&theme=dark"/>
 
-████████████████████░░░░░░ 75%
+</p>
 
-☸ Kubernetes
+### 🌐 Web & Tools
 
-███████████████████░░░░░░░ 70%
+<p>
 
-Terraform
+<img src="https://skillicons.dev/icons?i=nginx,linux,vscode&theme=dark"/>
 
-█████████████████████░░░░░ 82%
-
-GitHub Actions
-
-████████████████████░░░░░░ 78%
-
-Linux Administration
-```
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Become a Professional DevOps Engineer
-- ✅ Master Kubernetes
-- ✅ Learn Advanced Terraform
-- ✅ Build Production AWS Infrastructure
-- ✅ Contribute to Open Source
-- ✅ Earn AWS Certifications
-
----
-
-# 💡 Philosophy
-
-> **"Automate repetitive work, monitor everything, and build reliable systems."**
-
----
-
-<div align="center">
-
-### Thanks for visiting!
-
-⭐ Don't forget to follow my journey.
-
-</div>
-
-<br>
-
-<h1 align="center">📊 GitHub Analytics Dashboard</h1>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rakeshcrv&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rakeshcrv&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshcrv&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+# DevOps Toolbox
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rakeshcrv&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rakeshcrv&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Development Statistics
-
-<div align="center">
-
-| Metric | Status |
-|--------|--------|
-| ☁ Cloud | AWS |
-| 🐳 Containers | Docker |
-| ☸ Kubernetes | Learning |
+| Domain | Technologies |
+|:-------:|-------------|
+| ☁️ Cloud | AWS EC2 • IAM • S3 • Route53 • RDS |
+| 🐳 Containers | Docker • Docker Compose |
+| ☸️ Orchestration | Kubernetes |
 | 🏗 Infrastructure | Terraform |
-| 🚀 CI/CD | GitHub Actions & Jenkins |
-| 📈 Monitoring | Grafana + Prometheus |
-| 🐍 Backend | FastAPI |
+| 🚀 CI/CD | GitHub Actions • Jenkins |
+| 📊 Monitoring | Prometheus • Grafana |
+| ⚡ Backend | Python • FastAPI |
 | 🗄 Database | PostgreSQL |
+| 🌍 Web Server | NGINX |
+| 🐧 Operating System | Ubuntu Linux |
+| 🔧 Version Control | Git • GitHub |
 
 </div>
 
 ---
 
-# 📅 Weekly Workflow
-
-```text
-Terraform      ███████████████████░░   88%
-
-AWS            ██████████████████░░░   84%
-
-Docker         ████████████████████░   92%
-
-Linux          ███████████████████░░   90%
-
-GitHub         ██████████████████░░░   86%
-
-Python         █████████████████░░░░   80%
-
-Monitoring     ████████████████░░░░░   74%
-
-Networking     ███████████████░░░░░░   70%
-```
-
----
-
-# ⚡ Current Workspace
-
-```text
-Rakesh@github:~$
-
-tree workspace
-
-.
-
-├── AWS
-│   ├── EC2
-│   ├── IAM
-│   ├── Route53
-│   ├── S3
-│   └── RDS
-│
-├── Docker
-│
-├── Kubernetes
-│
-├── Terraform
-│
-├── Jenkins
-│
-├── GitHub Actions
-│
-├── Prometheus
-│
-├── Grafana
-│
-├── FastAPI
-│
-└── PostgreSQL
-
-12 directories
-
-Everything looks good 🚀
-```
-
----
-
-# 🎖 DevOps Principles
-
-```text
-✔ Infrastructure as Code
-
-✔ Automation First
-
-✔ CI/CD Everything
-
-✔ Monitoring Before Scaling
-
-✔ Security by Default
-
-✔ Reliability over Complexity
-```
-
----
-
-# 📌 Current Focus
-
-```yaml
-Now Building:
-
-Cloud Native Applications
-
-Production CI/CD Pipelines
-
-Kubernetes Deployments
-
-Terraform Modules
-
-AWS Infrastructure
-
-Linux Automation
-
-Observability Stack
-```
-
----
-
-# 📚 Reading
-
-- Kubernetes Up & Running
-- Terraform Up & Running
-- AWS Well-Architected Framework
-- Site Reliability Engineering
-- Docker Deep Dive
-
----
-
-# 💬 Favorite Commands
-
-```bash
-kubectl get pods
-
-kubectl describe deployment app
-
-docker compose up -d
-
-terraform plan
-
-terraform apply
-
-git rebase
-
-git cherry-pick
-
-ssh ubuntu@server
-
-journalctl -xe
-
-systemctl restart nginx
-```
-
----
+# Core Competencies
 
 <div align="center">
 
-## 🚀 Always Building. Always Learning.
+| Infrastructure | Automation | Monitoring | Development |
+|:--------------:|:----------:|:----------:|:-----------:|
+| AWS | GitHub Actions | Grafana | Python |
+| Docker | Jenkins | Prometheus | FastAPI |
+| Kubernetes | Terraform | Linux | PostgreSQL |
 
 </div>
 
 ---
 
-# <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> DevOps Workstation
+# Currently Exploring
 
 <div align="center">
 
-```text
-                   .-/+oossssoo+/-.              
-               `:+ssssssssssssssssss+:`          
-             -+ssssssssssssssssssyyssss+-        
-           .ossssssssssssssssssdMMMNysssso.      
-          /ssssssssssshdmmNNmmyNMMMMhssssss/      
-         +ssssssssshmydMMMMMMMNddddyssssssss+     
-        /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    
-       .ssssssssdMMMNhsssssssssshNMMMdssssssss.   
-       +sssshhhyNMMNyssssssssssssyNMMMysssssss+   
-       ossyNMMMNyMMhsssssssssssssshmmmhssssssso   
-       ossyNMMMNyMMhsssssssssssssshmmmhssssssso   
-       +sssshhhyNMMNyssssssssssssyNMMMysssssss+   
-       .ssssssssdMMMNhsssssssssshNMMMdssssssss.   
-        /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    
-         +sssssssssdmydMMMMMMMMddddyssssssss+     
-          /ssssssssssshdmNNNNmyNMMMMhssssss/      
-           .ossssssssssssssssssdMMMNysssso.       
-             -+sssssssssssssssssyyyssss+-         
-               `:+ssssssssssssssssss+:`           
-                   .-/+oossssoo+/-.               
-```
+| Learning | Progress |
+|----------|----------|
+| ☸️ Kubernetes | 🟩🟩🟩🟩⬜ |
+| 🏗 Terraform | 🟩🟩🟩🟩⬜ |
+| ☁️ AWS Services | 🟩🟩🟩🟩🟨 |
+| 📈 Observability | 🟩🟩🟩⬜⬜ |
+| 🔐 DevSecOps | 🟩🟩⬜⬜⬜ |
 
 </div>
 
 ---
-
-# 💻 Neofetch
-
-```text
-Rakesh@github
--------------------------
-OS: Ubuntu 24.04 LTS
-Host: GitHub Profile
-Kernel: Linux 6.x
-Shell: bash
-Editor: VS Code
-Terminal: GitHub
-Role: DevOps & Cloud Engineer
-
-Cloud: AWS ☁
-IaC: Terraform 🏗
-Containers: Docker 🐳
-Orchestration: Kubernetes ☸
-Backend: FastAPI ⚡
-Database: PostgreSQL 🗄
-Monitoring: Grafana + Prometheus 📈
-CI/CD: GitHub Actions + Jenkins 🚀
-```
-
----
-
-# ⚡ Production Dashboard
-
-<div align="center">
-
-| Infrastructure | Status |
-|---------------|--------|
-| ☁ AWS | 🟢 Online |
-| 🐳 Docker | 🟢 Running |
-| ☸ Kubernetes | 🟢 Healthy |
-| 📦 FastAPI | 🟢 Active |
-| 🗄 PostgreSQL | 🟢 Connected |
-| 📈 Grafana | 🟢 Monitoring |
-| 🔥 Prometheus | 🟢 Collecting Metrics |
-| 🚀 CI/CD | 🟢 Passing |
-
-</div>
 
 ---
 
 # 🏗 Production Architecture
 
-```text
-                        Internet
-                            │
-                    Cloudflare / Route53
-                            │
-                     NGINX Reverse Proxy
-                            │
-                 ┌──────────┴──────────┐
-                 │                     │
-          FastAPI Backend        React Frontend
-                 │
-           PostgreSQL (AWS RDS)
-                 │
-      Prometheus ───────► Grafana
+<div align="center">
 
-```
+> **Production deployment architecture used across my cloud-native applications**
 
----
+</div>
 
-# 🧰 My Toolchain
+<br>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,bash,git,githubactions,jenkins,python,fastapi,postgres,nginx,vscode"/>
+```text
+                        🌍 Internet
+                             │
+                             ▼
+                  ☁ Cloudflare / Route53
+                             │
+                             ▼
+                     🌐 NGINX Reverse Proxy
+                             │
+              ┌──────────────┴──────────────┐
+              │                             │
+              ▼                             ▼
+      ⚛ React Frontend              ⚡ FastAPI Backend
+                                             │
+                                             ▼
+                                  🐘 PostgreSQL (AWS RDS)
+                                             │
+                      ┌──────────────────────┴──────────────────────┐
+                      ▼                                             ▼
+              📊 Prometheus                               📈 Grafana
+```
 
 </div>
 
 ---
 
-# 📂 Current Workspace
+# 🚀 Deployment Workflow
 
-```text
-/home/rakesh
+<div align="center">
 
-├── infrastructure/
-│   ├── terraform/
-│   ├── ansible/
-│   ├── kubernetes/
-│   └── monitoring/
-│
-├── projects/
-│   ├── three-tier-app/
-│   ├── garbage-management/
-│   ├── rust-detection-ai/
-│   ├── flask-deployer/
-│   └── flowops-ai/
-│
-├── scripts/
-│
-└── docs/
+| Stage | Technology |
+|:------:|------------|
+| 👨‍💻 Source Code | GitHub |
+| 🔄 Continuous Integration | GitHub Actions / Jenkins |
+| 🐳 Containerization | Docker |
+| ☁️ Infrastructure | AWS EC2 |
+| 🌐 Reverse Proxy | NGINX |
+| ⚡ Backend | FastAPI |
+| ⚛ Frontend | React |
+| 🐘 Database | PostgreSQL |
+| 📊 Monitoring | Prometheus + Grafana |
 
-Everything is version controlled ✅
-```
+</div>
 
 ---
 
-# 🔄 CI/CD Pipeline
+# ⚙ Infrastructure Overview
 
-```text
-Developer
-     │
-     ▼
-GitHub Repository
-     │
-     ▼
+<table>
+
+<tr>
+
+<td width="33%" align="center">
+
+### ☁️ Cloud
+
+AWS EC2
+
+AWS RDS
+
+Route53
+
+IAM
+
+S3
+
+</td>
+
+<td width="33%" align="center">
+
+### 🐳 DevOps
+
+Docker
+
 GitHub Actions
-     │
-     ▼
-Docker Build
-     │
-     ▼
-Image Scan
-     │
-     ▼
-Push to Registry
-     │
-     ▼
-Deploy to AWS
-     │
-     ▼
-Health Check
-     │
-     ▼
-Production
-```
+
+Jenkins
+
+Terraform
+
+Kubernetes
+
+</td>
+
+<td width="33%" align="center">
+
+### 📈 Monitoring
+
+Prometheus
+
+Grafana
+
+Node Exporter
+
+Linux Logs
+
+Health Checks
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 📊 Monitoring Stack
+# 💡 Production Highlights
+
+<div align="center">
+
+| ✅ Feature | Description |
+|------------|-------------|
+| 🚀 CI/CD | Automated build and deployment pipeline |
+| 🔒 Security | Reverse proxy with HTTPS support |
+| 📦 Containers | Dockerized microservices |
+| 📊 Monitoring | Grafana dashboards & Prometheus metrics |
+| 🐘 Database | PostgreSQL hosted on AWS |
+| 📈 Scalability | Infrastructure designed for production workloads |
+
+</div>
+
+---
+
+# 🔄 DevOps Pipeline
 
 ```text
-Application
-      │
-      ▼
-Node Exporter
-      │
-      ▼
-Prometheus
-      │
-      ▼
-Grafana Dashboard
-      │
-      ▼
-Alerts
+        Developer
+            │
+            ▼
+     Push to GitHub
+            │
+            ▼
+ GitHub Actions / Jenkins
+            │
+            ▼
+      Build Docker Image
+            │
+            ▼
+      Push to Registry
+            │
+            ▼
+ Deploy on AWS EC2 Server
+            │
+            ▼
+  NGINX Reverse Proxy
+            │
+            ▼
+ Production Application
+            │
+            ▼
+ Prometheus + Grafana
 ```
-
----
-
-# 📈 DevOps Philosophy
-
-> **Automate everything.**
->
-> **Monitor everything.**
->
-> **Secure everything.**
->
-> **Scale when needed.**
->
-> **Document what matters.**
 
 ---
 
 <div align="center">
 
-### ⚙ "Infrastructure is code. Reliability is culture."
+### ⚡ *"Reliable infrastructure is built through automation, monitoring, and continuous improvement."*
 
 </div>
+
+---
 
 ---
 
@@ -631,580 +415,314 @@ Alerts
 
 <div align="center">
 
-> **Production-ready applications showcasing DevOps, Cloud, AI, and Full Stack Engineering.**
+Building production-ready applications with a strong focus on **Cloud, DevOps, Automation, and AI**.
 
 </div>
 
 <br>
 
 <table>
-
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🚀 Three-Tier CI/CD Application
 
-Production-grade cloud deployment using modern DevOps practices.
+Production-grade deployment pipeline for modern web applications.
 
-### ✨ Features
+**Tech Stack**
 
-- Automated CI/CD Pipeline
-- Dockerized Architecture
-- GitHub Actions
-- Jenkins Integration
-- NGINX Reverse Proxy
-- PostgreSQL Database
-- Monitoring with Grafana
-- AWS Deployment
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,jenkins,nginx,postgres&theme=dark"/>
+</p>
 
-### 🛠 Stack
+**Highlights**
 
-`AWS` `Docker` `GitHub Actions` `Jenkins`
-
-`FastAPI`
-
-`PostgreSQL`
-
-`NGINX`
-
-`Grafana`
-
-`Prometheus`
-
-### 📌 Highlights
-
-✔ Zero-downtime deployment
-
-✔ Automated testing
-
-✔ Production ready
-
-✔ Infrastructure automation
+- 🚀 Automated CI/CD Pipeline
+- 🐳 Dockerized Deployment
+- ☁ AWS Infrastructure
+- 📊 Monitoring Ready
 
 <br>
 
 <a href="YOUR_REPO_LINK">
-
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github">
-
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="220">
+<img width="180" src="https://skillicons.dev/icons?i=docker"/>
 
 </td>
 
 </tr>
-
 </table>
 
 ---
 
 <table>
-
 <tr>
 
-<td width="50%">
+<td width="50%" align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="220">
+<img width="180" src="https://skillicons.dev/icons?i=python"/>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🤖 Rust Detection AI
 
-AI-powered crop disease detection system.
+AI-powered crop disease detection platform.
 
-### ✨ Features
+**Tech Stack**
 
-- YOLO Object Detection
-- Severity Prediction
-- Flask REST API
-- Flutter Mobile App
-- AWS Deployment
-- Image Processing
-- Report Generation
+<p>
+<img src="https://skillicons.dev/icons?i=python,flask,tensorflow,flutter,aws&theme=dark"/>
+</p>
 
-### 🛠 Stack
+**Highlights**
 
-`Python`
-
-`YOLOv8`
-
-`TensorFlow`
-
-`Flask`
-
-`Flutter`
-
-`AWS`
-
-### 📌 Highlights
-
-✔ AI Model Deployment
-
-✔ Mobile Integration
-
-✔ REST API
-
-✔ Cloud Hosting
+- 🤖 YOLOv8 Detection
+- 📱 Flutter Mobile App
+- ☁ Hosted on AWS
+- 📊 REST API
 
 <br>
 
 <a href="YOUR_REPO_LINK">
-
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github">
-
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
 
 </tr>
-
 </table>
 
 ---
 
 <table>
-
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🗑 Garbage Management System
 
-Cloud-native complaint management platform.
+Cloud-native complaint management application.
 
-### ✨ Features
+**Tech Stack**
 
-- Citizen Dashboard
-- Admin Panel
-- Worker Assignment
-- Live Complaint Tracking
-- Image Upload
-- Location Tracking
-- PostgreSQL
-- AWS Deployment
+<p>
+<img src="https://skillicons.dev/icons?i=react,fastapi,postgres,docker,aws&theme=dark"/>
+</p>
 
-### 🛠 Stack
+**Highlights**
 
-`React`
-
-`FastAPI`
-
-`PostgreSQL`
-
-`AWS`
-
-`Docker`
-
-`NGINX`
-
-### 📌 Highlights
-
-✔ Production Deployment
-
-✔ Secure Authentication
-
-✔ Cloud Database
-
-✔ Role Based Access
+- 📍 Location Tracking
+- 👥 Role-Based Access
+- ☁ Cloud Deployment
+- 🗄 PostgreSQL
 
 <br>
 
 <a href="YOUR_REPO_LINK">
-
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github">
-
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="220">
+<img width="180" src="https://skillicons.dev/icons?i=react"/>
 
 </td>
 
 </tr>
-
 </table>
 
 ---
 
 <table>
-
 <tr>
 
-<td width="50%">
+<td width="50%" align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="220">
+<img width="180" src="https://skillicons.dev/icons?i=flask"/>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## ⚙ Flask Deployer
 
-Automated deployment platform.
+Lightweight deployment automation platform.
 
-### ✨ Features
+**Tech Stack**
 
-- GitHub Integration
-- Automatic Deployment
-- Application Dashboard
-- Process Monitoring
-- Logs
-- Restart Services
+<p>
+<img src="https://skillicons.dev/icons?i=python,flask,sqlite,git&theme=dark"/>
+</p>
 
-### 🛠 Stack
+**Highlights**
 
-`Python`
-
-`Flask`
-
-`SQLite`
-
-`GitHub`
-
-### 📌 Highlights
-
-✔ Deployment Automation
-
-✔ Lightweight
-
-✔ Beginner Friendly
+- ⚙ GitHub Integration
+- 🚀 One-click Deployment
+- 📜 Deployment Logs
+- 🔄 Process Monitoring
 
 <br>
 
 <a href="YOUR_REPO_LINK">
-
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github">
-
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
 
 </tr>
-
 </table>
 
 ---
 
-<table>
+<div align="center">
 
-<tr>
+## 💡 Currently Building
 
-<td width="50%">
+### ☁ FlowOps AI
 
-## ☁ FlowOps AI
+AI-powered DevOps platform focused on automation, infrastructure management, and cloud operations.
 
-AI-assisted DevOps platform.
+<p>
 
-### Planned Features
+<img src="https://skillicons.dev/icons?i=nextjs,fastapi,postgres,docker,aws,kubernetes,terraform"/>
 
-- AI Infrastructure Assistant
-- Kubernetes Dashboard
-- Terraform Generator
-- Cost Optimization
-- Monitoring Dashboard
-- Deployment Automation
-- Logs Analyzer
+</p>
 
-### Technologies
+<img src="https://img.shields.io/badge/Status-In%20Development-1F6FEB?style=for-the-badge"/>
 
-`Next.js`
-
-`FastAPI`
-
-`PostgreSQL`
-
-`Docker`
-
-`AWS`
-
-`OpenAI`
-
-`Terraform`
-
-`Kubernetes`
-
-<br>
-
-<a href="#">
-
-<img src="https://img.shields.io/badge/Coming_Soon-1F6FEB?style=for-the-badge">
-
-</a>
-
-</td>
-
-<td width="50%">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="220">
-
-</td>
-
-</tr>
-
-</table>
+</div>
 
 ---
 
-# 📈 DevOps Journey
+# 📌 Project Timeline
 
 ```text
 2025
 
-Started DevOps
+🚀 Three-Tier CI/CD
 
         │
 
-Docker
+🗑 Garbage Management System
 
         │
 
-AWS
+🤖 Rust Detection AI
 
         │
 
-GitHub Actions
+⚙ Flask Deployer
 
         │
 
-Jenkins
-
-        │
-
-Terraform
-
-        │
-
-Kubernetes
-
-        │
-
-Monitoring
-
-        │
-
-Production Deployments
+☁ FlowOps AI
 
         │
 
 2026
 
-Building Enterprise Cloud Infrastructure
+Enterprise DevOps Platform
 ```
 
 ---
 
-# 🎯 Current Roadmap
-
-| Goal | Progress |
-|------|----------|
-| AWS | ██████████ 90% |
-| Docker | ██████████ 95% |
-| Linux | █████████░ 90% |
-| Terraform | ████████░░ 80% |
-| Kubernetes | ███████░░░ 75% |
-| Monitoring | ████████░░ 80% |
-| CI/CD | ██████████ 90% |
-
 ---
+
+# Current Focus
 
 <div align="center">
 
-## ⭐ Every project is built with production practices in mind.
+| Learning | Building | Exploring |
+|:---------:|:--------:|:---------:|
+| ☸ Kubernetes | ☁ Cloud Infrastructure | 🔐 DevSecOps |
+| 🏗 Terraform | 🚀 CI/CD Pipelines | 📊 Observability |
+| 📈 Monitoring | 🐳 Production Deployments | 🤖 AI for DevOps |
 
 </div>
 
 ---
 
-<h1 align="center">
-⚡ Open Source & Community
-</h1>
+# Engineering Principles
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Rakeshcrv&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/Rakeshcrv?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/Rakeshcrv?style=for-the-badge"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-> *(Enable this after adding the GitHub Action workflow.)*
-
-<img src="https://raw.githubusercontent.com/Rakeshcrv/Rakeshcrv/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 📈 Coding Activity
 
 ```text
-Monday      ████████████████░░░░░░░  68%
+✓ Build Once, Deploy Anywhere
 
-Tuesday     ███████████████████░░░░  80%
+✓ Infrastructure as Code
 
-Wednesday   ████████████████████░░░  84%
+✓ Automation First
 
-Thursday    ██████████████████████░  91%
+✓ Security by Design
 
-Friday      ███████████████████░░░░  80%
+✓ Monitoring Before Scaling
 
-Saturday    ███████████████████████ 100%
-
-Sunday      ███████████████░░░░░░░░  60%
+✓ Keep Learning Every Day
 ```
 
----
-
-# ☁ Cloud Expertise
-
-```text
-AWS EC2
-
-██████████████████████████ 95%
-
-AWS IAM
-
-██████████████████████░░░░ 82%
-
-AWS S3
-
-███████████████████████░░░ 85%
-
-Route53
-
-████████████████████░░░░░░ 80%
-
-Docker
-
-██████████████████████████ 96%
-
-Terraform
-
-█████████████████████░░░░░ 82%
-
-Kubernetes
-
-████████████████████░░░░░░ 78%
-
-Linux
-
-█████████████████████████░ 94%
-```
+</div>
 
 ---
 
-# 📜 Certifications (Planned)
+# Beyond Code
 
-| Certification | Status |
-|---------------------------|-----------|
-| AWS Cloud Practitioner | 🔄 Planned |
-| AWS Solutions Architect Associate | 🔄 Planned |
-| Terraform Associate | 🔄 Planned |
-| Kubernetes (CKA) | 🔄 Planned |
-| Docker Certified Associate | 🔄 Planned |
+<table>
 
----
+<tr>
 
-# 🎯 2026 Mission
+<td width="50%">
 
-- 🚀 Master Kubernetes
-- ☁ Become AWS Certified
-- ⚙ Build reusable Terraform modules
-- 📊 Design production monitoring dashboards
-- 🔒 Learn DevSecOps practices
-- 🤝 Contribute to Open Source
-- 🧠 Explore Platform Engineering
+### 💼 Career Goals
 
----
+- DevOps Engineer
+- Cloud Engineer
+- Site Reliability Engineer
+- Platform Engineer
 
-# 💬 Favorite Commands
+</td>
 
-```bash
-aws ec2 describe-instances
+<td width="50%">
 
-terraform fmt
+### 🌱 Currently Working On
 
-terraform validate
+- FlowOps AI
+- Kubernetes
+- Terraform
+- AWS Architecture
+- Production CI/CD
 
-terraform apply
+</td>
 
-docker compose up -d
+</tr>
 
-docker system prune
-
-kubectl get all
-
-kubectl rollout restart deployment
-
-kubectl logs deployment/app
-
-kubectl top nodes
-
-journalctl -xe
-
-htop
-
-systemctl status nginx
-
-git fetch --all
-
-git rebase origin/main
-
-ssh ubuntu@production
-```
+</table>
 
 ---
-
-# 🌎 Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/rakesh-sirvi-n-24232a3b3">
+### Let's Build Reliable Cloud Infrastructure Together 🚀
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-
+<a href="https://www.linkedin.com/in/rakesh-sirvi-n-24232a3b3/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
+
+&nbsp;
 
 <a href="https://rakeshsirvi.site">
-
-<img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel"/>
-
+<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
 </a>
-
-<a href="mailto:YOUR_EMAIL">
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-
-</a>
-
-</div>
-
----
-
-# 💡 Quote
-
-<div align="center">
-
-> "Great infrastructure is invisible when everything works and invaluable when it doesn't."
 
 </div>
 
@@ -1212,10 +730,6 @@ ssh ubuntu@production
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-If you enjoy my work, consider ⭐ starring a repository or connecting with me on LinkedIn.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,100:1F6FEB&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,100:2563EB&section=footer"/>
 
 </div>
