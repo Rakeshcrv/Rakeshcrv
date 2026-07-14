@@ -1,19 +1,21 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2563EB&height=180&section=header&text=Rakesh%20Sirvi%20N&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,100:2563EB&section=header&text=Rakesh%20Sirvi%20N&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=DevOps+%26+Cloud+Engineer;Building+Production+Cloud+Infrastructure;AWS+•+Docker+•+Kubernetes+•+Terraform;Automation+%7C+CI%2FCD+%7C+Linux"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=DevOps+%26+Cloud+Engineer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Building+Reliable+Cloud+Infrastructure"/>
 
 <br><br>
 
-Building reliable cloud infrastructure through automation, containers and modern DevOps practices.
+<p>
+Building scalable cloud infrastructure, automating deployments, and creating production-ready applications with modern DevOps practices.
+</p>
 
-<br><br>
+<br>
 
 <a href="https://rakeshsirvi.site">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-2563EB?style=for-the-badge"/>
 </a>
 
 &nbsp;
@@ -22,13 +24,19 @@ Building reliable cloud infrastructure through automation, containers and modern
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;
-
-<a href="mailto:rakeshcrv987@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 </div>
+
+---
+
+## 👋 About Me
+
+I'm a **DevOps & Cloud Engineer** passionate about building scalable cloud infrastructure, automating deployments, and delivering reliable production systems.
+
+My work focuses on **AWS**, **Docker**, **Kubernetes**, **Terraform**, **Linux**, and **CI/CD**, with an emphasis on automation, observability, and cloud-native deployments.
+
+Currently building **FlowOps AI**, an AI-powered platform focused on simplifying DevOps workflows and cloud operations.
+
+---
 
 ---
 
@@ -36,108 +44,51 @@ Building reliable cloud infrastructure through automation, containers and modern
 
 <div align="center">
 
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### ☁️ Cloud
-
-<img src="https://skillicons.dev/icons?i=aws" /><br><br>
-
-AWS EC2<br>
-AWS IAM<br>
-AWS S3<br>
-AWS RDS<br>
-Route53
-
-</td>
-
-<td align="center" width="25%">
-
-### 🐳 DevOps
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform" /><br><br>
-
-Docker<br>
-Kubernetes<br>
-Terraform
-
-</td>
-
-<td align="center" width="25%">
-
-### 🚀 CI/CD
-
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins,git,bash" /><br><br>
-
-GitHub Actions<br>
-Jenkins<br>
-Git<br>
-Linux
-
-</td>
-
-<td align="center" width="25%">
-
-### 💻 Backend
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,nginx" /><br><br>
-
-Python<br>
-FastAPI<br>
-PostgreSQL<br>
-NGINX
-
-</td>
-
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,git,githubactions,jenkins,bash,python,fastapi,postgres,nginx,prometheus,grafana,vscode" />
 
 </div>
 
----
-
-## 💡 What I Do
+<br>
 
 <div align="center">
 
-| ☁️ Cloud Infrastructure | 🚀 CI/CD | 🐳 Containers | 📊 Monitoring |
-|:----------------------:|:--------:|:-------------:|:-------------:|
-| AWS Infrastructure | GitHub Actions | Docker | Prometheus |
-| Networking | Jenkins | Kubernetes | Grafana |
-| Linux Servers | Automation | Terraform | Logging |
+| Cloud | Containers | Infrastructure | Backend | Monitoring |
+|:------:|:----------:|:--------------:|:-------:|:----------:|
+| AWS | Docker | Terraform | Python | Prometheus |
+| EC2 • IAM • S3 • RDS | Kubernetes | Linux | FastAPI | Grafana |
 
 </div>
 
 ---
 
-## ⚙️ Workflow
+## 🏗 Production Architecture
+
+<div align="center">
 
 ```text
-      💻 Develop
-            │
-            ▼
-       Push to GitHub
-            │
-            ▼
-      GitHub Actions
-            │
-            ▼
-      Docker Build
-            │
-            ▼
-      Deploy to AWS
-            │
-            ▼
-     Monitor & Improve
+                     🌍 Internet
+                          │
+                          ▼
+                  🌐 NGINX Reverse Proxy
+                          │
+              ┌───────────┴───────────┐
+              │                       │
+              ▼                       ▼
+      ⚛ React Frontend        ⚡ FastAPI Backend
+                                      │
+                                      ▼
+                           🐘 PostgreSQL (AWS RDS)
+                                      │
+                         📊 Prometheus → Grafana
 ```
 
----
+</div>
+
+<br>
 
 <div align="center">
 
-> **Building reliable systems through automation, infrastructure as code, and continuous delivery.**
+> Production-ready architecture focused on reliability, automation, and observability.
 
 </div>
 
@@ -145,165 +96,90 @@ NGINX
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
-> A selection of projects focused on cloud infrastructure, DevOps automation, AI, and production-ready deployments.
+A selection of projects showcasing my experience in **Cloud Infrastructure**, **DevOps**, **Automation**, and **AI**.
 
 </div>
 
 <br>
 
-<table>
-<tr>
+### 🚀 Garbage Management System
 
-<td width="50%" valign="top">
+> Cloud-native complaint management platform deployed on AWS with a production-ready DevOps workflow.
 
-### 🚀 Three-Tier CI/CD Application
+**Tech Stack**
 
-Production-ready deployment pipeline with automated CI/CD.
+`AWS` • `Docker` • `FastAPI` • `React` • `PostgreSQL` • `NGINX`
 
-**Stack**
-
-`AWS` • `Docker` • `GitHub Actions` • `Jenkins`
-
-`FastAPI` • `PostgreSQL` • `NGINX`
-
-<br>
-
-✔ Automated Build & Deployment
-
-✔ Dockerized Infrastructure
-
-✔ Cloud Deployment on AWS
-
-<br>
-
-<a href="YOUR_REPOSITORY_URL">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+<a href="YOUR_GITHUB_REPO">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
-
-<td width="50%" valign="top">
+---
 
 ### 🤖 Rust Detection AI
 
-AI-powered crop disease detection platform.
+> AI-powered crop disease detection system with a Flask API and Flutter mobile application deployed on AWS.
 
-**Stack**
+**Tech Stack**
 
-`Python` • `YOLOv8` • `Flask`
+`Python` • `YOLOv8` • `Flask` • `Flutter` • `AWS`
 
-`Flutter` • `AWS`
-
-<br>
-
-✔ AI Image Detection
-
-✔ Mobile Application
-
-✔ REST API Deployment
-
-<br>
-
-<a href="YOUR_REPOSITORY_URL">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+<a href="YOUR_GITHUB_REPO">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🗑 Garbage Management System
-
-Cloud-native complaint management platform.
-
-**Stack**
-
-`React`
-
-`FastAPI`
-
-`PostgreSQL`
-
-`Docker`
-
-`AWS`
-
-<br>
-
-✔ Role-Based Dashboards
-
-✔ Complaint Tracking
-
-✔ Production Deployment
-
-<br>
-
-<a href="YOUR_REPOSITORY_URL">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚙ Flask Deployer
-
-Deployment automation platform for Flask applications.
-
-**Stack**
-
-`Python`
-
-`Flask`
-
-`GitHub`
-
-`SQLite`
-
-<br>
-
-✔ One-Click Deployment
-
-✔ GitHub Integration
-
-✔ Process Monitoring
-
-<br>
-
-<a href="YOUR_REPOSITORY_URL">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-</tr>
-
-</table>
 
 ---
 
-## 🌱 Currently Building
+### ☁️ FlowOps AI
+
+> AI-assisted DevOps platform focused on cloud automation, infrastructure management, and intelligent deployment workflows.
+
+**Tech Stack**
+
+`Next.js` • `FastAPI` • `Docker` • `Terraform` • `Kubernetes` • `AWS`
+
+<img src="https://img.shields.io/badge/Status-In%20Development-2563EB?style=for-the-badge"/>
+
+---
+
+## 🌱 Current Focus
+
+- ☸️ Building production-ready Kubernetes deployments
+- 🏗️ Creating reusable Terraform infrastructure
+- ☁️ Designing scalable AWS architectures
+- 🚀 Improving CI/CD automation workflows
+- 🤖 Developing FlowOps AI
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-### ☁ FlowOps AI
+<a href="https://rakeshsirvi.site">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge"/>
+</a>
 
-AI-powered DevOps platform for infrastructure automation, cloud operations, and intelligent deployment workflows.
+<a href="https://www.linkedin.com/in/rakesh-sirvi-n-24232a3b3/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-<img src="https://skillicons.dev/icons?i=nextjs,fastapi,docker,postgres,aws,terraform,kubernetes"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Status-In%20Development-2563EB?style=for-the-badge"/>
+<a href="mailto:rakeshcrv987@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
 </div>
 
 ---
+
+<div align="center">
+
+### ⭐ Thanks for visiting!
+
+*"Build. Automate. Scale."*
+
+</div>
