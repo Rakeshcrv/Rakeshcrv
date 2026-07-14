@@ -44,7 +44,7 @@ Currently building **FlowOps AI**, an AI-powered platform focused on simplifying
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,git,githubactions,jenkins,bash,python,fastapi,postgres,nginx,prometheus,grafana,vscode" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,git,githubactions,jenkins,bash,python,fastapi,postgres,nginx,prometheus,grafana" />
 
 </div>
 
@@ -61,7 +61,7 @@ Currently building **FlowOps AI**, an AI-powered platform focused on simplifying
 
 ---
 
-## 🏗 Production Architecture
+## 🏗 Simple Production Architecture
 
 <div align="center">
 
@@ -114,7 +114,7 @@ A selection of projects showcasing my experience in **Cloud Infrastructure**, **
 
 `AWS` • `Docker` • `FastAPI` • `React` • `PostgreSQL` • `NGINX`
 
-<a href="YOUR_GITHUB_REPO">
+<a href="https://github.com/Rakeshcrv/garbage-management-system.git">
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -128,7 +128,7 @@ A selection of projects showcasing my experience in **Cloud Infrastructure**, **
 
 `Python` • `YOLOv8` • `Flask` • `Flutter` • `AWS`
 
-<a href="YOUR_GITHUB_REPO">
+<a href="https://github.com/Rakeshcrv/rust-detection-api.git">
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
